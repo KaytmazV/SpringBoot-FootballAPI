@@ -6,4 +6,5 @@ public class League {
     private String name;
     private String Country;
     private String Season;
+    private String team;
 }

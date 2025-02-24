@@ -1,7 +1,7 @@
 package com.volkankaytmaz.futbolapi.model;
 
 import java.sql.Time;
-
+ 
 public class Event{
     private Long id;
     private String type;
